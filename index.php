@@ -11,6 +11,11 @@
     <?php 
     $myFirstVar='Nurul Islam Rimon';
     echo 'Hello PHP by '. $myFirstVar;
+
+    $v1=10;
+    $v2=20;
+    
+    echo $v1 + $v2;
     ?>
 </body>
 </html>
