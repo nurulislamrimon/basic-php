@@ -7,5 +7,9 @@
 </head>
 <body>
     This is first php project
+
+    <?php 
+    echo 'Hello PHP';
+    ?>
 </body>
 </html>
