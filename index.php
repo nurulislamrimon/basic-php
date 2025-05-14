@@ -16,6 +16,8 @@
     $v2=20;
     
     echo $v1 + $v2;
+
+    var_dump($v1)
     ?>
-</body>
+</body> 
 </html>
