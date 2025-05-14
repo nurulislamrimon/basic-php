@@ -9,7 +9,8 @@
     This is first php project
 
     <?php 
-    echo 'Hello PHP';
+    $myFirstVar='Nurul Islam Rimon';
+    echo 'Hello PHP by '. $myFirstVar;
     ?>
 </body>
 </html>
